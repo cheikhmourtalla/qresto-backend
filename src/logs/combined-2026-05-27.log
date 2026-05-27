@@ -1,0 +1,375 @@
+{"email":"admin@qresto.sn","ip":"::1","level":"info","message":"Tentative de connexion","service":"restaurant-api","timestamp":"2026-05-27 10:59:32"}
+{"level":"info","message":"Connexion réussie","restaurantId":null,"role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 10:59:32","userId":1}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 10:59:32","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-27 10:59:32"}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:05:37","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-27 11:05:37"}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:05:39","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-27 11:05:39"}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-27 11:05:41","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-27 11:05:41","userId":1}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-27 11:05:42","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-27 11:05:42","userId":1}
+{"level":"info","message":"Récupération des produits","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-27 11:05:42","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les produits","service":"restaurant-api","timestamp":"2026-05-27 11:05:42","userId":1}
+{"email":"awa@gmail.com","ip":"::1","level":"info","message":"Tentative de connexion","service":"restaurant-api","timestamp":"2026-05-27 11:07:16"}
+{"level":"info","message":"Connexion réussie","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:07:17","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:17","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:17","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:17","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:17"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:17"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:17"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:19","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:19"}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:20","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:20","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:20"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:20"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:24","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:24"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:32","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:32"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:36","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:36"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:37","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:37"}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:40","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:40","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:40"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:40"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:41","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:41"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:44","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:44","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:44","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:44"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:44"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:44"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:46","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:07:46"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:12:37","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:15:10","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:15:31","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:16:05","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:19:24","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:19:49","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:21:33","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:21:37","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:21:45","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:21:53","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:21:55","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:21:57","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:22:16","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:22:19","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:22:43","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:22:46","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:22:50","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:23:09","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:23:11","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:23:27","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:29:18","url":"http://localhost:5000"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:29:24","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:24","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:25"}
+{"duration":"270ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:29:25"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:29:26","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:26","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:26"}
+{"duration":"38ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:29:27"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:29:28","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:28","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:29:28","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:28","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:28"}
+{"duration":"16ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:29:28"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:28"}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:29:28"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:29:29","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:29","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:29"}
+{"duration":"18ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:29:29"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:29:30","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:30","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:29:30","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:30","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:30"}
+{"duration":"19ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:29:30"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:29:30"}
+{"duration":"14ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:29:30"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:30:23","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:30:23","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:30:23"}
+{"duration":"12ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:30:23"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:32:53","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:32:53","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:32:53"}
+{"duration":"14ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:32:53"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-27 11:33:02"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-27 11:33:02"}
+{"duration":"36ms","ip":"::1","level":"info","message":"GET /api/menu/chez-awa","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:33:02"}
+{"duration":"148ms","ip":"::1","level":"info","message":"POST /api/orders","service":"restaurant-api","status":201,"timestamp":"2026-05-27 11:33:10"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:33:15","userId":2}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":200,"timestamp":"2026-05-27 11:33:15"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:33:30","userId":2}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:33:30"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:33:38","userId":2}
+{"duration":"53ms","ip":"::1","level":"info","message":"PATCH /api/orders/14/status","service":"restaurant-api","status":200,"timestamp":"2026-05-27 11:33:38"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:33:38","userId":2}
+{"duration":"6ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":200,"timestamp":"2026-05-27 11:33:38"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:33:40","userId":2}
+{"duration":"28ms","ip":"::1","level":"info","message":"PATCH /api/orders/14/status","service":"restaurant-api","status":200,"timestamp":"2026-05-27 11:33:40"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:33:40","userId":2}
+{"duration":"9ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":200,"timestamp":"2026-05-27 11:33:40"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:33:45","userId":2}
+{"duration":"9ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:33:45"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:34:00","userId":2}
+{"duration":"7ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:34:00"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:34:15","userId":2}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:34:15"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:34:30","userId":2}
+{"duration":"59ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:34:30"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:34:45","userId":2}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:34:45"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:35:00","userId":2}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:35:00"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:36:01","userId":2}
+{"duration":"17ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:36:01"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:37:02","userId":2}
+{"duration":"16ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:37:02"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:38:03","userId":2}
+{"duration":"17ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:03"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:38:17","userId":2}
+{"duration":"7ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:17"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-27 11:38:17"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-27 11:38:17"}
+{"duration":"26ms","ip":"::1","level":"info","message":"GET /api/menu/chez-awa","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:17"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:38:33","userId":2}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:33"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:38:39","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:39","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:38:39","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:39","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:38:39","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:39","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:39"}
+{"duration":"32ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:39"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:39"}
+{"duration":"30ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:39"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:39"}
+{"duration":"44ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:39"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:38:46","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:46","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:38:46"}
+{"duration":"26ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:38:46"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:24","userId":2}
+{"duration":"21ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:24"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:25","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:25","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:25","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:25","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:25"}
+{"duration":"16ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:25"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:25"}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:25"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:25","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26"}
+{"duration":"10ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:26"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:26","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:26","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26"}
+{"duration":"25ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:26"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26"}
+{"duration":"24ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:26"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:26","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:26"}
+{"duration":"19ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:26"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:27","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:27","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:27"}
+{"duration":"21ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:27"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:28","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:28","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:39:28","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:28","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:28"}
+{"duration":"14ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:28"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:39:28"}
+{"duration":"20ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:39:28"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:20","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:20","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:20","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:20","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:20"}
+{"duration":"46ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:20"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:20"}
+{"duration":"53ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:20"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:24","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:24","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:24","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:24","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:24"}
+{"duration":"12ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:24"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:24"}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:24"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:27","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:27","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:27","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:27","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:27"}
+{"duration":"9ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:27"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:27"}
+{"duration":"41ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:27"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:30","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:30","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:30","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:30","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:30"}
+{"duration":"18ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:30"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:30"}
+{"duration":"18ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:30"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:50","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:50","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:50","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:50","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:50"}
+{"duration":"12ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:50"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:50"}
+{"duration":"8ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:50"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:52","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:52","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:52","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:52","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:52"}
+{"duration":"8ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:52"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:52"}
+{"duration":"11ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:52"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:54","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:54","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:44:54","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:54","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:54"}
+{"duration":"8ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:54"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:44:54"}
+{"duration":"9ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:44:54"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:45:00","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:00","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:45:00","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:00","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:00"}
+{"duration":"11ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:45:00"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:00"}
+{"duration":"12ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:45:00"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:45:59","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:59","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:45:59","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:59","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:59"}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:45:59"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:45:59"}
+{"duration":"12ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:45:59"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:46:59","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:46:59","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:46:59","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:46:59","userId":2}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:46:59","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:46:59","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:46:59"}
+{"duration":"12ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:46:59"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:46:59"}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/products","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:46:59"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:46:59"}
+{"duration":"14ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:46:59"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:02","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:02","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:02"}
+{"duration":"14ms","ip":"::1","level":"info","message":"GET /api/categories","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:02"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:04","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:04","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:04"}
+{"duration":"29ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:04"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:05","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:05","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:05"}
+{"duration":"83ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:05"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:06","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:06","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-27 11:47:06"}
+{"duration":"10ms","ip":"::1","level":"info","message":"GET /api/restaurants/me","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:06"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:07","userId":2}
+{"duration":"18ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:07"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:22","userId":2}
+{"duration":"7ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:22"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:37","userId":2}
+{"duration":"125ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:37"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:47:52","userId":2}
+{"duration":"7ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:47:52"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:48:07","userId":2}
+{"duration":"7ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:48:07"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:48:22","userId":2}
+{"duration":"7ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:48:22"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:48:37","userId":2}
+{"duration":"10ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:48:37"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:48:52","userId":2}
+{"duration":"12ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:48:52"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:49:07","userId":2}
+{"duration":"11ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:49:07"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:49:22","userId":2}
+{"duration":"54ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:49:22"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:49:37","userId":2}
+{"duration":"18ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:49:37"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:49:52","userId":2}
+{"duration":"42ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:49:52"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:50:07","userId":2}
+{"duration":"41ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:50:07"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:50:22","userId":2}
+{"duration":"8ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:50:22"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:50:37","userId":2}
+{"duration":"43ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:50:37"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:50:52","userId":2}
+{"duration":"6ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:50:52"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:51:08","userId":2}
+{"duration":"7ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:51:08"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:51:23","userId":2}
+{"duration":"47ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:51:23"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:51:38","userId":2}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:51:38"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:51:53","userId":2}
+{"duration":"6ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:51:53"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:52:14","userId":2}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:52:14"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:53:14","userId":2}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:53:14"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:53:23","userId":2}
+{"duration":"5ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:53:23"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:53:38","userId":2}
+{"duration":"13ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:53:38"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:53:53","userId":2}
+{"duration":"16ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:53:53"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:54:08","userId":2}
+{"duration":"40ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:54:08"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:55:09","userId":2}
+{"duration":"53ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:55:09"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:56:10","userId":2}
+{"duration":"38ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:56:10"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:57:11","userId":2}
+{"duration":"16ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:57:11"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:58:12","userId":2}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:58:12"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-27 11:59:10","url":"http://localhost:5000"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:59:10","userId":2}
+{"duration":"43ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:59:10"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:59:23","userId":2}
+{"duration":"12ms","ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:59:23"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:59:38","userId":2}
+{"duration":"51ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:59:38"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 11:59:53","userId":2}
+{"duration":"16ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 11:59:53"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 12:00:14","userId":2}
+{"duration":"15ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 12:00:14"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-27 12:01:14","userId":2}
+{"duration":"8ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-27 12:01:14"}

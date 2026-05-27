@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\HP ELITE X 2\\Desktop\\QResto Sénégal\\qresto-backend\\src\\logs\\.adc5d16a59d7dac15ac99d125c510d4e7c9255f0-audit.json",
+    "files": [
+        {
+            "date": 1779750654562,
+            "name": "C:\\Users\\HP ELITE X 2\\Desktop\\QResto Sénégal\\qresto-backend\\src\\logs\\combined-2026-05-25.log",
+            "hash": "6ee50897bb6fee84bc3715402ed0073302d9f8071a9d84894dafaedecc570b50"
+        },
+        {
+            "date": 1779753865110,
+            "name": "C:\\Users\\HP ELITE X 2\\Desktop\\QResto Sénégal\\qresto-backend\\src\\logs\\combined-2026-05-26.log",
+            "hash": "78f03c5c45862082289a67558fda6d1a0239cfba76a76c3739441091823cef39"
+        },
+        {
+            "date": 1779879445023,
+            "name": "C:\\Users\\HP ELITE X 2\\Desktop\\QResto Sénégal\\qresto-backend\\src\\logs\\combined-2026-05-27.log",
+            "hash": "2156c161bf435d7574c506c9083b92e6c8562ddfba73a03b3539b8dce5849e3b"
+        }
+    ],
+    "hashType": "sha256"
+}

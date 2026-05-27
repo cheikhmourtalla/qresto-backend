@@ -1,0 +1,132 @@
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:04:25"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:04:25"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:04:31"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:04:31"}
+{"level":"info","message":"Tentative de génération de token de table","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","tableNumber":"1","timestamp":"2026-05-26 00:05:45","userId":2}
+{"level":"info","message":"Token de table généré","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","tableNumber":"1","timestamp":"2026-05-26 00:05:45"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:06:29"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:06:29"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:15:59"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:15:59"}
+{"email":"awa@gmail.com","ip":"::ffff:127.0.0.1","level":"info","message":"Tentative de connexion","service":"restaurant-api","timestamp":"2026-05-26 00:17:21"}
+{"level":"info","message":"Connexion réussie","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 00:17:21","userId":2}
+{"level":"info","message":"Tentative de génération de token de table","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","tableNumber":"1","timestamp":"2026-05-26 00:17:53","userId":2}
+{"level":"info","message":"Token de table généré","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","tableNumber":"1","timestamp":"2026-05-26 00:17:53"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:18:09"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:18:09"}
+{"itemCount":1,"level":"info","message":"Tentative de création de commande","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","tableNumber":"1","timestamp":"2026-05-26 00:18:17"}
+{"level":"warn","message":"Produit indisponible lors de la commande","name":"Pizza Reine GM","productId":8,"service":"restaurant-api","timestamp":"2026-05-26 00:18:17"}
+{"email":"admin@qresto.sn","ip":"::1","level":"info","message":"Tentative de connexion","service":"restaurant-api","timestamp":"2026-05-26 00:21:30"}
+{"level":"info","message":"Connexion réussie","restaurantId":null,"role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 00:21:30","userId":1}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 00:21:31","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-26 00:21:31"}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 00:21:32","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-26 00:21:32","userId":1}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 00:21:33","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-26 00:21:33","userId":1}
+{"level":"info","message":"Récupération des produits","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 00:21:33","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les produits","service":"restaurant-api","timestamp":"2026-05-26 00:21:33","userId":1}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 00:21:36","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-26 00:21:36","userId":1}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 00:21:37","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-26 00:21:37"}
+{"email":"awa@gmail.com","ip":"::1","level":"info","message":"Tentative de connexion","service":"restaurant-api","timestamp":"2026-05-26 00:21:44"}
+{"level":"info","message":"Connexion réussie","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 00:21:44","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:44","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:44","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:44","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:44"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:44"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:44"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:48","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 00:21:48"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:22:01"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 00:22:01"}
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 01:38:37"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-26 01:38:37"}
+{"email":"admin@qresto.sn","ip":"::1","level":"info","message":"Tentative de connexion","service":"restaurant-api","timestamp":"2026-05-26 13:48:17"}
+{"level":"info","message":"Connexion réussie","restaurantId":null,"role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 13:48:17","userId":1}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 13:48:18","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-26 13:48:18"}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 13:48:21","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-26 13:48:21"}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 13:48:22","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-26 13:48:22","userId":1}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 13:48:24","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-26 13:48:24"}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 13:48:25","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-26 13:48:25","userId":1}
+{"level":"info","message":"Récupération des catégories","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 13:48:26","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les catégories","service":"restaurant-api","timestamp":"2026-05-26 13:48:26","userId":1}
+{"level":"info","message":"Récupération des produits","restaurantId":null,"service":"restaurant-api","timestamp":"2026-05-26 13:48:26","userId":1}
+{"level":"warn","message":"Accès refusé : Super Admin ne peut pas lister les produits","service":"restaurant-api","timestamp":"2026-05-26 13:48:26","userId":1}
+{"email":"awa@gmail.com","ip":"::1","level":"info","message":"Tentative de connexion","service":"restaurant-api","timestamp":"2026-05-26 13:51:37"}
+{"level":"info","message":"Connexion réussie","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-26 13:51:37","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:37","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:37","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:37","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:37"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:37"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:37"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:42","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:42"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:43","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:43","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:43"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:43"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:44","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:44"}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:45","userId":2}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:45","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:45"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:45"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:54","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:54"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:55","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:55"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:56","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:56"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:58","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:51:58"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:06","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:06","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:06","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:06"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:06"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:06"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:15","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:15"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:18","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:18"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:18","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:18","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:18"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:18"}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:19","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:19"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:19","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:19"}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:21","userId":2}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:21"}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:29","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:29"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:29","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:29"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:47","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:47","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:47","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:47"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:47"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 13:52:47"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 14:40:11","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 14:40:11","userId":2}
+{"level":"info","message":"Récupération du restaurant lié au compte","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 14:40:11","userId":2}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 14:40:11"}
+{"level":"info","message":"Restaurant retourné","name":"Chez Awa","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 14:40:11"}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 14:40:11"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 22:48:49","userId":2}
+{"level":"info","message":"Récupération des produits","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 22:48:49","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 22:48:49"}
+{"level":"info","message":"9 produit(s) retourné(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 22:48:49"}
+{"level":"info","message":"Récupération des catégories","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 22:48:50","userId":2}
+{"level":"info","message":"9 catégorie(s) retournée(s)","restaurantId":1,"service":"restaurant-api","timestamp":"2026-05-26 22:48:50"}

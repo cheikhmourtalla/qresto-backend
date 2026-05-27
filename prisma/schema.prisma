@@ -1,0 +1,109 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model restaurant {
+  id           Int        @id @default(autoincrement())
+  name         String
+  slug         String     @unique(map: "Restaurant_slug_key")
+  logo         String?
+  phone        String?
+  address      String?
+  banner       String?
+  subscription String?    @default("FREE")
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @default(now())
+  category     category[]
+  product      product[]
+  user         user[]
+  order        order[]
+}
+
+model user {
+  id           Int         @id @default(autoincrement())
+  name         String
+  email        String      @unique(map: "User_email_key")
+  password     String
+  role         user_role   @default(RESTAURANT_ADMIN)
+  restaurantId Int?
+  createdAt    DateTime    @default(now())
+  updatedAt    DateTime    @default(now())
+  restaurant   restaurant? @relation(fields: [restaurantId], references: [id], onDelete: Cascade, map: "User_restaurantId_fkey")
+
+  @@index([restaurantId], map: "User_restaurantId_fkey")
+}
+
+model category {
+  id           Int        @id @default(autoincrement())
+  name         String
+  restaurantId Int
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @default(now())
+  restaurant   restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade, map: "Category_restaurantId_fkey")
+  product      product[]
+
+  @@index([restaurantId], map: "Category_restaurantId_fkey")
+}
+
+model product {
+  id           Int         @id @default(autoincrement())
+  name         String
+  description  String?     @db.Text
+  price        Float
+  image        String?
+  available    Boolean     @default(true)
+  categoryId   Int
+  restaurantId Int
+  createdAt    DateTime    @default(now())
+  updatedAt    DateTime    @default(now())
+  category     category    @relation(fields: [categoryId], references: [id], onDelete: Cascade, map: "Product_categoryId_fkey")
+  restaurant   restaurant  @relation(fields: [restaurantId], references: [id], onDelete: Cascade, map: "Product_restaurantId_fkey")
+  order_item   order_item[]
+
+  @@index([categoryId], map: "Product_categoryId_fkey")
+  @@index([restaurantId], map: "Product_restaurantId_fkey")
+}
+
+model order {
+  id            Int          @id @default(autoincrement())
+  tableNumber   String
+  status        order_status @default(PENDING)
+  billRequested Boolean      @default(false)
+  restaurantId  Int
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @default(now())
+  restaurant    restaurant   @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
+  items         order_item[]
+
+  @@index([restaurantId])
+}
+
+model order_item {
+  id        Int     @id @default(autoincrement())
+  orderId   Int
+  productId Int
+  quantity  Int
+  price     Float
+  order     order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  product   product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@index([orderId])
+  @@index([productId])
+}
+
+enum user_role {
+  SUPER_ADMIN
+  RESTAURANT_ADMIN
+  EMPLOYEE
+}
+
+enum order_status {
+  PENDING
+  IN_PROGRESS
+  SERVED
+}
