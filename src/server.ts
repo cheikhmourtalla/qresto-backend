@@ -12,6 +12,7 @@ import productRoutes from "./routes/product.routes";
 import menuRoutes from "./routes/menu.routes";
 import uploadRoutes from "./routes/upload.routes";
 import orderRoutes from "./routes/order.routes";
+import waiterCallRoutes from "./routes/waiterCall.routes";
 
 dotenv.config();
 
@@ -68,6 +69,7 @@ app.use("/api/products", productRoutes);
 app.use("/api/menu", menuRoutes);
 app.use("/api/upload", uploadRoutes);
 app.use("/api/orders", orderRoutes);
+app.use("/api", waiterCallRoutes);
 
 // Route de santé
 app.get("/", (req: Request, res: Response) => {

@@ -107,3 +107,13 @@ enum order_status {
   IN_PROGRESS
   SERVED
 }
+
+model WaiterCall {
+  id           Int       @id @default(autoincrement())
+  tableNumber  String
+  type         String
+  status       String    @default("PENDING")
+  handledAt    DateTime?
+  restaurantId Int
+  createdAt    DateTime  @default(now())
+}

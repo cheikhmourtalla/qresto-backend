@@ -1,0 +1,7 @@
+{"ip":"::1","level":"info","message":"Accès menu public","service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-28 02:13:02"}
+{"categories":9,"level":"info","message":"Menu retourné","restaurantId":1,"service":"restaurant-api","slug":"chez-awa","timestamp":"2026-05-28 02:13:02"}
+{"duration":"119ms","ip":"::1","level":"info","message":"GET /api/menu/chez-awa","service":"restaurant-api","status":304,"timestamp":"2026-05-28 02:13:02"}
+{"level":"info","message":"Utilisateur authentifié","restaurantId":null,"role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-28 02:13:04","userId":1}
+{"level":"info","message":"Récupération de tous les restaurants","role":"SUPER_ADMIN","service":"restaurant-api","timestamp":"2026-05-28 02:13:04","userId":1}
+{"level":"info","message":"2 restaurant(s) retourné(s)","service":"restaurant-api","timestamp":"2026-05-28 02:13:04"}
+{"duration":"40ms","ip":"::1","level":"info","message":"GET /api/restaurants","service":"restaurant-api","status":304,"timestamp":"2026-05-28 02:13:04"}
