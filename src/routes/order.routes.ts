@@ -3,7 +3,6 @@ import {
   createOrder,
   getOrders,
   updateOrderStatus,
-  requestBill,
   deleteOrder,
 } from "../controllers/order.controller";
 import { protect, authorize } from "../middlewares/auth.middleware";
@@ -12,7 +11,6 @@ const router = Router();
 
 // ── Routes publiques (client sans connexion) ──
 router.post("/", createOrder);
-router.patch("/:id/bill", requestBill);
 
 // ── Routes protégées (dashboard gérant) ──
 router.get(

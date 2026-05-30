@@ -3,7 +3,7 @@ generator client {
 }
 
 datasource db {
-  provider = "mysql"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
@@ -33,7 +33,7 @@ model user {
   restaurantId Int?
   createdAt    DateTime    @default(now())
   updatedAt    DateTime    @default(now())
-  restaurant   restaurant? @relation(fields: [restaurantId], references: [id], onDelete: Cascade, map: "User_restaurantId_fkey")
+  restaurant   restaurant? @relation(fields: [restaurantId], references: [id], onDelete: Cascade )
 
   @@index([restaurantId], map: "User_restaurantId_fkey")
 }
@@ -44,7 +44,7 @@ model category {
   restaurantId Int
   createdAt    DateTime   @default(now())
   updatedAt    DateTime   @default(now())
-  restaurant   restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade, map: "Category_restaurantId_fkey")
+  restaurant   restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
   product      product[]
 
   @@index([restaurantId], map: "Category_restaurantId_fkey")
@@ -53,7 +53,7 @@ model category {
 model product {
   id           Int         @id @default(autoincrement())
   name         String
-  description  String?     @db.Text
+  description  String?     
   price        Float
   image        String?
   available    Boolean     @default(true)
@@ -61,8 +61,8 @@ model product {
   restaurantId Int
   createdAt    DateTime    @default(now())
   updatedAt    DateTime    @default(now())
-  category     category    @relation(fields: [categoryId], references: [id], onDelete: Cascade, map: "Product_categoryId_fkey")
-  restaurant   restaurant  @relation(fields: [restaurantId], references: [id], onDelete: Cascade, map: "Product_restaurantId_fkey")
+  category     category    @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  restaurant   restaurant  @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
   order_item   order_item[]
 
   @@index([categoryId], map: "Product_categoryId_fkey")
@@ -73,7 +73,6 @@ model order {
   id            Int          @id @default(autoincrement())
   tableNumber   String
   status        order_status @default(PENDING)
-  billRequested Boolean      @default(false)
   restaurantId  Int
   createdAt     DateTime     @default(now())
   updatedAt     DateTime     @default(now())

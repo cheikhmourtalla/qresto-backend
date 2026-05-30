@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const product_controller_1 = require("../controllers/product.controller");
+const auth_middleware_1 = require("../middlewares/auth.middleware");
+const validate_middleware_1 = require("../middlewares/validate.middleware");
+const product_schema_1 = require("../schemas/product.schema");
+const router = (0, express_1.Router)();
+router.get("/", auth_middleware_1.protect, product_controller_1.getProducts);
+router.post("/", auth_middleware_1.protect, (0, auth_middleware_1.authorize)("SUPER_ADMIN", "RESTAURANT_ADMIN"), (0, validate_middleware_1.validate)(product_schema_1.createProductSchema), product_controller_1.createProduct);
+router.put("/:id", auth_middleware_1.protect, (0, auth_middleware_1.authorize)("SUPER_ADMIN", "RESTAURANT_ADMIN"), (0, validate_middleware_1.validate)(product_schema_1.updateProductSchema), product_controller_1.updateProduct);
+router.patch("/:id/availability", auth_middleware_1.protect, (0, auth_middleware_1.authorize)("SUPER_ADMIN", "RESTAURANT_ADMIN", "EMPLOYEE"), product_controller_1.toggleProductAvailability);
+router.delete("/:id", auth_middleware_1.protect, (0, auth_middleware_1.authorize)("SUPER_ADMIN", "RESTAURANT_ADMIN"), product_controller_1.deleteProduct);
+exports.default = router;

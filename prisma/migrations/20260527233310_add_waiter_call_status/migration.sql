@@ -1,3 +1,0 @@
--- AlterTable
-ALTER TABLE `waitercall` ADD COLUMN `handledAt` DATETIME(3) NULL,
-    ADD COLUMN `status` VARCHAR(191) NOT NULL DEFAULT 'PENDING';

@@ -121,7 +121,7 @@ export const updateOrderStatus = async (req: AuthRequest, res: Response) => {
     const orderId = Number(req.params.id);
     const { status } = req.body;
 
-    const validStatuses = ["PENDING", "IN_PROGRESS", "SERVED", "BILL_REQUESTED"];
+    const validStatuses = ["PENDING", "IN_PROGRESS", "SERVED"];
     if (!validStatuses.includes(status)) {
       return res.status(400).json({ message: "Statut invalide" });
     }
@@ -145,34 +145,7 @@ export const updateOrderStatus = async (req: AuthRequest, res: Response) => {
   }
 };
 
-/**
- * PATCH /orders/:id/bill
- * Demander l'addition (public — appelé depuis le menu client)
- */
-export const requestBill = async (req: Request, res: Response) => {
-  try {
-    const orderId = Number(req.params.id);
 
-    const order = await prisma.order.findUnique({ where: { id: orderId } });
-
-    if (!order) {
-      return res.status(404).json({ message: "Commande introuvable" });
-    }
-
-    const updated = await prisma.order.update({
-      where: { id: orderId },
-      data: {
-        billRequested: true,
-        status: "BILL_REQUESTED",
-      },
-    });
-
-    res.json({ message: "Addition demandée", order: updated });
-  } catch (error) {
-    console.error("REQUEST_BILL_ERROR:", error);
-    res.status(500).json({ message: "Erreur lors de la demande d'addition" });
-  }
-};
 
 /**
  * DELETE /orders/:id
