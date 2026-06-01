@@ -632,3 +632,4 @@
 {"level":"info","message":"Utilisateur authentifié","restaurantId":1,"role":"RESTAURANT_ADMIN","service":"restaurant-api","timestamp":"2026-05-30 11:10:45","userId":2}
 {"duration":"8ms","ip":"::1","level":"info","message":"GET /api/orders","service":"restaurant-api","status":304,"timestamp":"2026-05-30 11:10:45"}
 {"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-30 11:38:49","url":"http://localhost:5000"}
+{"env":"development","level":"info","message":"Serveur démarré","service":"restaurant-api","timestamp":"2026-05-30 20:11:56","url":"http://localhost:5000"}
